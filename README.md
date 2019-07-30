@@ -1,6 +1,6 @@
 # Borker
 
-Borker Protocol is an application layer protocol designed to ride on top of the Bitcoin p2p network and similar UTXO-based, transparent blockchains. It relies on the openess, security, and immutability of the underlying networks to defines a method of publishing and consuming unstoppable content.
+Borker Protocol is an application layer protocol designed to ride on top of the Bitcoin p2p network and similar UTXO-based, transparent blockchains. It relies on the openess, security, and immutability of the underlying networks and defines a method of publishing and consuming unstoppable content.
 
 Borker is an implementation of the Borker Protocol. It uses:
 
